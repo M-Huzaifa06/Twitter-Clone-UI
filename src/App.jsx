@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <div className="container bg-white flex w-[90vw] mx-auto">
+    <div className="container bg-white flex w-[98vw] sm:w-[90vw] mx-auto">
       <Left />
       <Center />
       <Right />

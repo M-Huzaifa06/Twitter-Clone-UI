@@ -2,7 +2,7 @@ import React from 'react'
 
 const Right = () => {
   return (
-    <div className='w-[60vw] px-5 py-2 flex flex-col gap-6'>
+    <div className='w-[60vw] px-5 py-2 sm:flex sm:flex-col gap-6 hidden'>
 
       <div className="search-box flex gap-3 border border-gray-300 rounded-2xl px-4 py-1">
         <span class="material-symbols-outlined">search</span>
