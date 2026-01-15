@@ -74,6 +74,60 @@ const Center = () => {
           </div>
         </div>
       </div>
+      <div className="posts border-b border-gray-300">
+        <div className="post flex gap-2">
+          <div className="img w-[5vw] shrink-0">
+            <img
+              src="https://pbs.twimg.com/profile_images/2003157076454047745/hc7utpCS_bigger.png"
+              alt=""
+              className="p-2 rounded-full"
+            />
+          </div>
+
+          <div className="content pr-3">
+            <span className="text-xl">unusual_whales </span> <span>@unusual_whales·5h</span>
+            <p className="mb-2">
+              Tesla, $TSLA, is up more than 2.5% today. Numerous analysts have a
+              buy rating on TSLA. In fact, 54% recommend buy from the last two
+              months.
+            </p>
+            <img src="https://pbs.twimg.com/media/G8yielbXEAIaCX_?format=jpg&name=900x900" alt="" className="rounded-xl"/>
+            <div className="icons flex justify-between py-2">
+                <span><span class="material-symbols-outlined">chat_bubble</span>332</span>
+                <span><span class="material-symbols-outlined">repeat</span>332</span>
+                <span><span class="material-symbols-outlined">favorite</span>332</span>
+                <span><span class="material-symbols-outlined">bar_chart_4_bars</span>332</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="posts border-b border-gray-300">
+        <div className="post flex gap-2">
+          <div className="img w-[5vw] shrink-0">
+            <img
+              src="https://pbs.twimg.com/profile_images/2003157076454047745/hc7utpCS_bigger.png"
+              alt=""
+              className="p-2 rounded-full"
+            />
+          </div>
+
+          <div className="content pr-3">
+            <span className="text-xl">unusual_whales </span> <span>@unusual_whales·5h</span>
+            <p className="mb-2">
+              Tesla, $TSLA, is up more than 2.5% today. Numerous analysts have a
+              buy rating on TSLA. In fact, 54% recommend buy from the last two
+              months.
+            </p>
+            <img src="https://pbs.twimg.com/media/G8yielbXEAIaCX_?format=jpg&name=900x900" alt="" className="rounded-xl"/>
+            <div className="icons flex justify-between py-2">
+                <span><span class="material-symbols-outlined">chat_bubble</span>332</span>
+                <span><span class="material-symbols-outlined">repeat</span>332</span>
+                <span><span class="material-symbols-outlined">favorite</span>332</span>
+                <span><span class="material-symbols-outlined">bar_chart_4_bars</span>332</span>
+            </div>
+          </div>
+        </div>
+      </div>
 
     </div>
   );
